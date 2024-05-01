@@ -36,8 +36,8 @@ A simple command line tool for conducting load tests.
   -b, --benign-user                         Number of benign users, default 1
   -m, --attacker                            Number of attackers, default 1
   -d, --duration                            Duration of test in seconds, default 60s
-  -t, --attack-start-time                   Starting time of the attack, default 10ths
-  -T, --attack-duration                     Duration of the attack in seconds, default 10ths
+  -t, --attack-start-time                   Starting time of the attack, default 15th second
+  -T, --attack-duration                     Duration of the attack in seconds, default 10s
   -H, --header                              Add header to request
   --payload                                 Add payload to request
   -R, --rate                                Work rate (throughput) in requests/sec (total) [Required Parameter]
