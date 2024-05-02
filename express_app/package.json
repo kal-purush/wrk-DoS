@@ -1,0 +1,30 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Masudul Hasan Masud Bhuiyan",
+  "license": "ISC",
+  "description": "A toy express web app to test wrk-Dos tool",
+  "dependencies": {
+    "charset": "^1.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "module": "^1.2.5",
+    "node-os-utils": "^1.3.6",
+    "os-usage": "^0.0.3",
+    "throng": "^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kal-purush/sample_app_express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kal-purush/sample_app_express/issues"
+  },
+  "homepage": "https://github.com/kal-purush/sample_app_express#readme"
+}
