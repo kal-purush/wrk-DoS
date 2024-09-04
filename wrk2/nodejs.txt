@@ -1,0 +1,2521 @@
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.11s   828.30ms   3.41s    64.43%
+    Req/Sec        nan       nan   0.00      0.00%
+  1225 requests in 5.01s, 347.53KB read
+  Done array processing 0.000237
+Requests/sec:    244.67
+Transfer/sec:     69.41KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.05s   610.02ms   2.99s    73.09%
+    Req/Sec        nan       nan   0.00      0.00%
+  2119 requests in 5.01s, 601.21KB read
+  Done array processing 0.000213
+Requests/sec:    422.96
+Transfer/sec:    120.00KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.63s   428.40ms   2.28s    72.33%
+    Req/Sec        nan       nan   0.00      0.00%
+  3674 requests in 5.00s, 1.02MB read
+  Done array processing 0.000228
+Requests/sec:    734.65
+Transfer/sec:    208.45KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.52s   355.13ms   2.18s    69.63%
+    Req/Sec        nan       nan   0.00      0.00%
+  3719 requests in 5.03s, 1.03MB read
+  Done array processing 0.000220
+Requests/sec:    738.99
+Transfer/sec:    209.72KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.87s   811.44ms   3.29s    58.58%
+    Req/Sec        nan       nan   0.00      0.00%
+  1438 requests in 5.04s, 407.88KB read
+  Done array processing 0.000306
+Requests/sec:    285.18
+Transfer/sec:     80.89KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.86s   800.56ms   3.31s    58.01%
+    Req/Sec        nan       nan   0.00      0.00%
+  3383 requests in 5.02s, 0.94MB read
+  Done array processing 0.000219
+Requests/sec:    674.25
+Transfer/sec:    191.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.46s   555.27ms   2.50s    56.10%
+    Req/Sec        nan       nan   0.00      0.00%
+  3173 requests in 5.00s, 0.88MB read
+  Done array processing 0.000359
+Requests/sec:    634.52
+Transfer/sec:    180.01KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.89s   404.11ms   2.79s    66.06%
+    Req/Sec        nan       nan   0.00      0.00%
+  2923 requests in 5.01s, 829.37KB read
+  Done array processing 0.000197
+Requests/sec:    583.20
+Transfer/sec:    165.48KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.23s     1.04s    4.06s    58.50%
+    Req/Sec        nan       nan   0.00      0.00%
+  1874 requests in 5.00s, 531.60KB read
+  Done array processing 0.000209
+Requests/sec:    374.87
+Transfer/sec:    106.34KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.79s   765.80ms   3.17s    58.29%
+    Req/Sec        nan       nan   0.00      0.00%
+  3732 requests in 5.00s, 1.03MB read
+  Done array processing 0.000220
+Requests/sec:    745.79
+Transfer/sec:    211.58KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.07s   301.93ms   1.85s    57.20%
+    Req/Sec        nan       nan   0.00      0.00%
+  4956 requests in 5.01s, 1.37MB read
+  Done array processing 0.000190
+Requests/sec:    989.17
+Transfer/sec:    280.70KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.75s   420.88ms   2.75s    63.17%
+    Req/Sec        nan       nan   0.00      0.00%
+  3424 requests in 5.03s, 0.95MB read
+  Done array processing 0.000220
+Requests/sec:    680.57
+Transfer/sec:    193.13KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.20s     1.03s    4.08s    58.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  1803 requests in 5.01s, 511.46KB read
+  Done array processing 0.000239
+Requests/sec:    359.64
+Transfer/sec:    102.02KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.72s   745.08ms   3.20s    59.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  3378 requests in 5.02s, 0.94MB read
+  Done array processing 0.000219
+Requests/sec:    672.92
+Transfer/sec:    190.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.36s   490.40ms   2.47s    60.10%
+    Req/Sec        nan       nan   0.00      0.00%
+  4516 requests in 5.01s, 1.25MB read
+  Done array processing 0.000225
+Requests/sec:    900.66
+Transfer/sec:    255.53KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.78s   470.63ms   2.86s    61.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  2716 requests in 5.02s, 770.50KB read
+  Done array processing 0.000280
+Requests/sec:    541.06
+Transfer/sec:    153.49KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.21s     1.03s    4.06s    58.44%
+    Req/Sec        nan       nan   0.00      0.00%
+  1842 requests in 5.04s, 522.57KB read
+  Done array processing 0.000185
+Requests/sec:    365.36
+Transfer/sec:    103.65KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.80s   771.71ms   3.35s    62.72%
+    Req/Sec        nan       nan   0.00      0.00%
+  3270 requests in 5.03s, 0.91MB read
+  Done array processing 0.000189
+Requests/sec:    650.36
+Transfer/sec:    184.52KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.18s   489.69ms   2.28s    62.32%
+    Req/Sec        nan       nan   0.00      0.00%
+  4917 requests in 5.01s, 1.36MB read
+  Done array processing 0.000174
+Requests/sec:    980.56
+Transfer/sec:    278.22KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.47s   438.01ms   2.33s    72.13%
+    Req/Sec        nan       nan   0.00      0.00%
+  4358 requests in 5.03s, 1.21MB read
+  Done array processing 0.000356
+Requests/sec:    866.06
+Transfer/sec:    245.75KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.01s     1.07s    4.18s    59.57%
+    Req/Sec        nan       nan   0.00      0.00%
+  1458 requests in 5.06s, 413.59KB read
+  Done array processing 0.000147
+Requests/sec:    288.21
+Transfer/sec:     81.76KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.91s   747.48ms   3.25s    61.72%
+    Req/Sec        nan       nan   0.00      0.00%
+  3602 requests in 5.04s, 1.00MB read
+  Done array processing 0.000300
+Requests/sec:    714.84
+Transfer/sec:    202.83KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.08s   318.69ms   1.80s    65.13%
+    Req/Sec        nan       nan   0.00      0.00%
+  6209 requests in 5.00s, 1.72MB read
+  Done array processing 0.000173
+Requests/sec:   1240.73
+Transfer/sec:    352.10KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.18s   361.86ms   1.92s    64.88%
+    Req/Sec        nan       nan   0.00      0.00%
+  5250 requests in 5.04s, 1.45MB read
+  Done array processing 0.000181
+Requests/sec:   1042.55
+Transfer/sec:    295.86KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.22s     1.03s    4.06s    58.61%
+    Req/Sec        nan       nan   0.00      0.00%
+  1882 requests in 5.07s, 533.92KB read
+  Done array processing 0.000160
+Requests/sec:    370.94
+Transfer/sec:    105.23KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.90s   788.39ms   3.30s    60.66%
+    Req/Sec        nan       nan   0.00      0.00%
+  3448 requests in 5.02s, 0.96MB read
+  Done array processing 0.000169
+Requests/sec:    686.21
+Transfer/sec:    194.69KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.19s   393.79ms   2.12s    63.56%
+    Req/Sec        nan       nan   0.00      0.00%
+  5542 requests in 5.01s, 1.54MB read
+  Done array processing 0.000167
+Requests/sec:   1105.49
+Transfer/sec:    313.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.69s   746.90ms   3.01s    59.25%
+    Req/Sec        nan       nan   0.00      0.00%
+  3193 requests in 5.02s, 0.88MB read
+  Done array processing 0.000191
+Requests/sec:    636.12
+Transfer/sec:    180.47KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.01s   830.63ms   3.34s    59.16%
+    Req/Sec        nan       nan   0.00      0.00%
+  1308 requests in 5.00s, 371.00KB read
+  Done array processing 0.000320
+Requests/sec:    261.41
+Transfer/sec:     74.15KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.67s   623.96ms   2.73s    60.47%
+    Req/Sec        nan       nan   0.00      0.00%
+  2610 requests in 5.00s, 740.46KB read
+  Done array processing 0.000230
+Requests/sec:    521.62
+Transfer/sec:    147.98KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.21s   295.43ms   1.77s    69.19%
+    Req/Sec        nan       nan   0.00      0.00%
+  4704 requests in 5.00s, 1.30MB read
+  Done array processing 0.000152
+Requests/sec:    940.27
+Transfer/sec:    266.84KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.06s   331.31ms   1.78s    60.21%
+    Req/Sec        nan       nan   0.00      0.00%
+  4292 requests in 5.00s, 1.19MB read
+  Done array processing 0.000205
+Requests/sec:    858.09
+Transfer/sec:    243.53KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.37s     1.02s    4.11s    60.96%
+    Req/Sec        nan       nan   0.00      0.00%
+  1781 requests in 5.01s, 505.32KB read
+  Done array processing 0.000341
+Requests/sec:    355.33
+Transfer/sec:    100.82KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.68s   734.69ms   3.25s    61.23%
+    Req/Sec        nan       nan   0.00      0.00%
+  3126 requests in 5.00s, 0.87MB read
+  Done array processing 0.000205
+Requests/sec:    624.91
+Transfer/sec:    177.32KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.46s   352.40ms   2.09s    74.46%
+    Req/Sec        nan       nan   0.00      0.00%
+  4074 requests in 5.01s, 1.13MB read
+  Done array processing 0.000209
+Requests/sec:    813.94
+Transfer/sec:    230.97KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.80s   327.65ms   2.36s    64.44%
+    Req/Sec        nan       nan   0.00      0.00%
+  3678 requests in 5.02s, 1.02MB read
+  Done array processing 0.000186
+Requests/sec:    733.14
+Transfer/sec:    208.04KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.36s     1.05s    4.12s    60.99%
+    Req/Sec        nan       nan   0.00      0.00%
+  1760 requests in 5.00s, 499.36KB read
+  Done array processing 0.000299
+Requests/sec:    351.89
+Transfer/sec:     99.84KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.64s   710.13ms   3.11s    60.17%
+    Req/Sec        nan       nan   0.00      0.00%
+  3362 requests in 5.00s, 0.93MB read
+  Done array processing 0.000193
+Requests/sec:    672.39
+Transfer/sec:    190.79KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.03s   340.68ms   1.84s    59.45%
+    Req/Sec        nan       nan   0.00      0.00%
+  5222 requests in 5.01s, 1.45MB read
+  Done array processing 0.000197
+Requests/sec:   1041.80
+Transfer/sec:    295.60KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.72s   285.84ms   2.37s    73.48%
+    Req/Sec        nan       nan   0.00      0.00%
+  3874 requests in 5.03s, 1.07MB read
+  Done array processing 0.000237
+Requests/sec:    770.68
+Transfer/sec:    218.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.37s     1.01s    4.12s    57.56%
+    Req/Sec        nan       nan   0.00      0.00%
+  1794 requests in 5.03s, 509.00KB read
+  Done array processing 0.000201
+Requests/sec:    356.56
+Transfer/sec:    101.16KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.73s   757.83ms   3.19s    59.27%
+    Req/Sec        nan       nan   0.00      0.00%
+  3342 requests in 5.01s, 0.93MB read
+  Done array processing 0.000217
+Requests/sec:    667.25
+Transfer/sec:    189.29KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency   974.44ms  292.33ms   1.64s    59.76%
+    Req/Sec        nan       nan   0.00      0.00%
+  5759 requests in 5.01s, 1.60MB read
+  Done array processing 0.000208
+Requests/sec:   1149.85
+Transfer/sec:    326.30KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.00s   631.56ms   3.19s    54.39%
+    Req/Sec        nan       nan   0.00      0.00%
+  1779 requests in 5.04s, 504.71KB read
+  Done array processing 0.000341
+Requests/sec:    353.06
+Transfer/sec:    100.17KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.31s     1.05s    4.16s    57.86%
+    Req/Sec        nan       nan   0.00      0.00%
+  1732 requests in 5.04s, 491.27KB read
+  Done array processing 0.000186
+Requests/sec:    343.89
+Transfer/sec:     97.54KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.85s   843.20ms   3.38s    58.05%
+    Req/Sec        nan       nan   0.00      0.00%
+  3116 requests in 5.03s, 0.86MB read
+  Done array processing 0.000167
+Requests/sec:    619.75
+Transfer/sec:    175.80KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.19s   522.33ms   2.26s    55.72%
+    Req/Sec        nan       nan   0.00      0.00%
+  4658 requests in 5.01s, 1.29MB read
+  Done array processing 0.000171
+Requests/sec:    930.02
+Transfer/sec:    263.86KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.80s   484.71ms   2.81s    64.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  3198 requests in 5.04s, 0.89MB read
+  Done array processing 0.000268
+Requests/sec:    634.40
+Transfer/sec:    180.00KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.25s     1.04s    4.06s    58.12%
+    Req/Sec        nan       nan   0.00      0.00%
+  1924 requests in 5.06s, 545.86KB read
+  Done array processing 0.000145
+Requests/sec:    380.38
+Transfer/sec:    107.92KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.74s   751.97ms   3.16s    58.97%
+    Req/Sec        nan       nan   0.00      0.00%
+  3606 requests in 5.02s, 1.00MB read
+  Done array processing 0.000166
+Requests/sec:    717.77
+Transfer/sec:    203.66KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.30s   512.89ms   2.31s    56.96%
+    Req/Sec        nan       nan   0.00      0.00%
+  5190 requests in 5.02s, 1.44MB read
+  Done array processing 0.000165
+Requests/sec:   1033.42
+Transfer/sec:    293.22KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.11s   603.61ms   2.58s    52.33%
+    Req/Sec        nan       nan   0.00      0.00%
+  3719 requests in 5.05s, 1.03MB read
+  Done array processing 0.000211
+Requests/sec:    736.13
+Transfer/sec:    208.86KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.42s     1.04s    4.18s    59.56%
+    Req/Sec        nan       nan   0.00      0.00%
+  1687 requests in 5.08s, 478.49KB read
+  Done array processing 0.000135
+Requests/sec:    332.40
+Transfer/sec:     94.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.91s   857.03ms   3.62s    58.65%
+    Req/Sec        nan       nan   0.00      0.00%
+  2959 requests in 5.02s, 839.40KB read
+  Done array processing 0.000164
+Requests/sec:    589.04
+Transfer/sec:    167.10KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.15s   366.81ms   1.90s    59.19%
+    Req/Sec        nan       nan   0.00      0.00%
+  5803 requests in 5.03s, 1.61MB read
+  Done array processing 0.000168
+Requests/sec:   1154.82
+Transfer/sec:    327.69KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.27s   533.38ms   2.20s    62.98%
+    Req/Sec        nan       nan   0.00      0.00%
+  4425 requests in 5.04s, 1.23MB read
+  Done array processing 0.000166
+Requests/sec:    877.59
+Transfer/sec:    249.00KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.14s   802.35ms   3.46s    65.39%
+    Req/Sec        nan       nan   0.00      0.00%
+  1126 requests in 5.00s, 319.30KB read
+  Done array processing 0.000244
+Requests/sec:    225.07
+Transfer/sec:     63.82KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.06s   581.81ms   2.98s    63.94%
+    Req/Sec        nan       nan   0.00      0.00%
+  2145 requests in 5.00s, 608.44KB read
+  Done array processing 0.000208
+Requests/sec:    428.79
+Transfer/sec:    121.63KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.11s   648.47ms   3.08s    62.04%
+    Req/Sec        nan       nan   0.00      0.00%
+  1949 requests in 5.01s, 552.89KB read
+  Done array processing 0.000212
+Requests/sec:    389.39
+Transfer/sec:    110.46KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.94s   745.85ms   3.18s    64.63%
+    Req/Sec        nan       nan   0.00      0.00%
+  1685 requests in 5.00s, 477.97KB read
+  Done array processing 0.000203
+Requests/sec:    336.74
+Transfer/sec:     95.52KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.49s     1.05s    4.18s    63.03%
+    Req/Sec        nan       nan   0.00      0.00%
+  1552 requests in 5.00s, 440.20KB read
+  Done array processing 0.000234
+Requests/sec:    310.09
+Transfer/sec:     87.95KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.71s   764.14ms   3.44s    63.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  2790 requests in 5.05s, 791.37KB read
+  Done array processing 0.000203
+Requests/sec:    552.99
+Transfer/sec:    156.85KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.81s   430.72ms   2.46s    78.56%
+    Req/Sec        nan       nan   0.00      0.00%
+  3319 requests in 5.00s, 0.92MB read
+  Done array processing 0.000204
+Requests/sec:    663.84
+Transfer/sec:    188.35KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.69s   334.82ms   2.32s    66.77%
+    Req/Sec        nan       nan   0.00      0.00%
+  3849 requests in 5.00s, 1.07MB read
+  Done array processing 0.000197
+Requests/sec:    769.18
+Transfer/sec:    218.29KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.24s     1.04s    4.07s    58.14%
+    Req/Sec        nan       nan   0.00      0.00%
+  1857 requests in 5.04s, 526.76KB read
+  Done array processing 0.000224
+Requests/sec:    368.54
+Transfer/sec:    104.54KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.86s   845.73ms   3.32s    57.49%
+    Req/Sec        nan       nan   0.00      0.00%
+  3416 requests in 5.02s, 0.95MB read
+  Done array processing 0.000200
+Requests/sec:    680.55
+Transfer/sec:    193.05KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.44s   409.93ms   2.13s    66.45%
+    Req/Sec        nan       nan   0.00      0.00%
+  3938 requests in 5.00s, 1.09MB read
+  Done array processing 0.000150
+Requests/sec:    787.70
+Transfer/sec:    223.48KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.19s   364.36ms   2.87s    60.36%
+    Req/Sec        nan       nan   0.00      0.00%
+  2562 requests in 5.00s, 726.86KB read
+  Done array processing 0.000210
+Requests/sec:    512.13
+Transfer/sec:    145.30KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.30s     1.06s    4.13s    57.48%
+    Req/Sec        nan       nan   0.00      0.00%
+  1767 requests in 5.04s, 501.11KB read
+  Done array processing 0.000220
+Requests/sec:    350.86
+Transfer/sec:     99.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.75s   790.91ms   3.27s    59.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  3245 requests in 5.01s, 0.90MB read
+  Done array processing 0.000211
+Requests/sec:    647.56
+Transfer/sec:    183.69KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.04s   394.91ms   1.97s    58.49%
+    Req/Sec        nan       nan   0.00      0.00%
+  5401 requests in 5.05s, 1.50MB read
+  Done array processing 0.000150
+Requests/sec:   1070.05
+Transfer/sec:    303.60KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.21s   562.22ms   3.04s    73.10%
+    Req/Sec        nan       nan   0.00      0.00%
+  2274 requests in 5.01s, 645.16KB read
+  Done array processing 0.000181
+Requests/sec:    453.66
+Transfer/sec:    128.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.23s     1.04s    4.16s    61.40%
+    Req/Sec        nan       nan   0.00      0.00%
+  1651 requests in 5.08s, 468.24KB read
+  Done array processing 0.000173
+Requests/sec:    325.06
+Transfer/sec:     92.19KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.94s   865.70ms   3.82s    62.13%
+    Req/Sec        nan       nan   0.00      0.00%
+  2802 requests in 5.01s, 794.79KB read
+  Done array processing 0.000198
+Requests/sec:    559.07
+Transfer/sec:    158.58KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.36s   618.16ms   2.76s    62.89%
+    Req/Sec        nan       nan   0.00      0.00%
+  3738 requests in 5.04s, 1.04MB read
+  Done array processing 0.000188
+Requests/sec:    742.38
+Transfer/sec:    210.60KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.57s   602.62ms   2.60s    69.38%
+    Req/Sec        nan       nan   0.00      0.00%
+  3678 requests in 5.01s, 1.02MB read
+  Done array processing 0.000392
+Requests/sec:    733.83
+Transfer/sec:    208.18KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.24s     1.03s    4.06s    58.91%
+    Req/Sec        nan       nan   0.00      0.00%
+  1843 requests in 5.04s, 522.74KB read
+  Done array processing 0.000163
+Requests/sec:    365.37
+Transfer/sec:    103.63KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.88s   774.43ms   3.22s    58.77%
+    Req/Sec        nan       nan   0.00      0.00%
+  3629 requests in 5.04s, 1.01MB read
+  Done array processing 0.000188
+Requests/sec:    720.31
+Transfer/sec:    204.36KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.10s   360.16ms   1.89s    63.14%
+    Req/Sec        nan       nan   0.00      0.00%
+  5790 requests in 5.03s, 1.60MB read
+  Done array processing 0.000162
+Requests/sec:   1150.66
+Transfer/sec:    326.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.37s   465.19ms   2.33s    69.98%
+    Req/Sec        nan       nan   0.00      0.00%
+  4605 requests in 5.03s, 1.28MB read
+  Socket errors: connect 0, read 0, write 0, timeout 1
+  Done array processing 0.000167
+Requests/sec:    915.28
+Transfer/sec:    259.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.26s     1.05s    4.10s    57.47%
+    Req/Sec        nan       nan   0.00      0.00%
+  1820 requests in 5.04s, 516.26KB read
+  Done array processing 0.000174
+Requests/sec:    360.88
+Transfer/sec:    102.37KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.92s   838.01ms   3.50s    61.87%
+    Req/Sec        nan       nan   0.00      0.00%
+  3058 requests in 5.04s, 867.55KB read
+  Done array processing 0.000178
+Requests/sec:    606.72
+Transfer/sec:    172.13KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.78s   699.31ms   3.12s    59.01%
+    Req/Sec        nan       nan   0.00      0.00%
+  3707 requests in 5.06s, 1.03MB read
+  Done array processing 0.000161
+Requests/sec:    732.90
+Transfer/sec:    207.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.41s   475.97ms   2.27s    61.58%
+    Req/Sec        nan       nan   0.00      0.00%
+  4757 requests in 5.04s, 1.32MB read
+  Done array processing 0.000169
+Requests/sec:    943.63
+Transfer/sec:    267.72KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.09s   814.85ms   3.44s    61.95%
+    Req/Sec        nan       nan   0.00      0.00%
+  1139 requests in 5.01s, 323.07KB read
+  Done array processing 0.000209
+Requests/sec:    227.44
+Transfer/sec:     64.51KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.09s   677.88ms   3.18s    62.65%
+    Req/Sec        nan       nan   0.00      0.00%
+  1688 requests in 5.00s, 478.83KB read
+  Done array processing 0.000186
+Requests/sec:    337.41
+Transfer/sec:     95.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.89s   465.40ms   2.79s    70.53%
+    Req/Sec        nan       nan   0.00      0.00%
+  2572 requests in 5.01s, 729.64KB read
+  Done array processing 0.000328
+Requests/sec:    513.83
+Transfer/sec:    145.77KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.68s   576.87ms   2.97s    64.81%
+    Req/Sec        nan       nan   0.00      0.00%
+  2113 requests in 5.02s, 599.42KB read
+  Done array processing 0.000323
+Requests/sec:    421.03
+Transfer/sec:    119.44KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.16s   971.78ms   4.11s    62.91%
+    Req/Sec        nan       nan   0.00      0.00%
+  1608 requests in 5.01s, 456.04KB read
+  Done array processing 0.000209
+Requests/sec:    321.03
+Transfer/sec:     91.05KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.12s   596.44ms   3.01s    65.57%
+    Req/Sec        nan       nan   0.00      0.00%
+  2062 requests in 5.01s, 584.97KB read
+  Done array processing 0.000206
+Requests/sec:    411.92
+Transfer/sec:    116.86KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.98s   608.95ms   2.94s    67.52%
+    Req/Sec        nan       nan   0.00      0.00%
+  2310 requests in 5.00s, 655.32KB read
+  Done array processing 0.000329
+Requests/sec:    461.83
+Transfer/sec:    131.02KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.14s   513.65ms   3.00s    60.39%
+    Req/Sec        nan       nan   0.00      0.00%
+  2065 requests in 5.02s, 585.78KB read
+  Done array processing 0.000201
+Requests/sec:    411.44
+Transfer/sec:    116.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.19s     1.04s    4.15s    59.73%
+    Req/Sec        nan       nan   0.00      0.00%
+  1611 requests in 5.03s, 456.88KB read
+  Done array processing 0.000188
+Requests/sec:    320.07
+Transfer/sec:     90.77KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.74s   792.39ms   3.26s    60.24%
+    Req/Sec        nan       nan   0.00      0.00%
+  3252 requests in 5.00s, 0.90MB read
+  Done array processing 0.000185
+Requests/sec:    650.07
+Transfer/sec:    184.41KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.48s   628.23ms   2.72s    62.83%
+    Req/Sec        nan       nan   0.00      0.00%
+  4550 requests in 5.02s, 1.26MB read
+  Done array processing 0.000228
+Requests/sec:    907.17
+Transfer/sec:    257.37KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.08s   297.85ms   2.70s    63.78%
+    Req/Sec        nan       nan   0.00      0.00%
+  3142 requests in 5.00s, 0.87MB read
+  Done array processing 0.000226
+Requests/sec:    628.10
+Transfer/sec:    178.21KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.26s     1.05s    4.07s    57.99%
+    Req/Sec        nan       nan   0.00      0.00%
+  1872 requests in 5.03s, 531.07KB read
+  Done array processing 0.000198
+Requests/sec:    372.38
+Transfer/sec:    105.64KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.74s   764.13ms   3.23s    60.17%
+    Req/Sec        nan       nan   0.00      0.00%
+  3300 requests in 5.02s, 0.91MB read
+  Done array processing 0.000206
+Requests/sec:    657.80
+Transfer/sec:    186.62KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.13s   358.64ms   1.89s    58.84%
+    Req/Sec        nan       nan   0.00      0.00%
+  5934 requests in 5.00s, 1.64MB read
+  Done array processing 0.000279
+Requests/sec:   1187.10
+Transfer/sec:    336.85KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.16s   539.64ms   3.15s    70.60%
+    Req/Sec        nan       nan   0.00      0.00%
+  2397 requests in 5.18s, 679.94KB read
+  Done array processing 0.000180
+Requests/sec:    462.56
+Transfer/sec:    131.21KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.37s     1.06s    4.12s    62.10%
+    Req/Sec        nan       nan   0.00      0.00%
+  1753 requests in 5.04s, 497.28KB read
+  Done array processing 0.000177
+Requests/sec:    348.14
+Transfer/sec:     98.76KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.77s   772.17ms   3.19s    58.72%
+    Req/Sec        nan       nan   0.00      0.00%
+  3572 requests in 5.02s, 0.99MB read
+  Done array processing 0.000172
+Requests/sec:    712.18
+Transfer/sec:    202.07KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.05s   332.82ms   1.74s    58.12%
+    Req/Sec        nan       nan   0.00      0.00%
+  5943 requests in 5.00s, 1.65MB read
+  Done array processing 0.000176
+Requests/sec:   1187.96
+Transfer/sec:    337.10KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.32s   515.65ms   2.28s    66.68%
+    Req/Sec        nan       nan   0.00      0.00%
+  4088 requests in 5.01s, 1.13MB read
+  Done array processing 0.000165
+Requests/sec:    816.54
+Transfer/sec:    231.68KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.21s     1.03s    4.03s    58.44%
+    Req/Sec        nan       nan   0.00      0.00%
+  1891 requests in 5.06s, 536.39KB read
+  Done array processing 0.000170
+Requests/sec:    373.62
+Transfer/sec:    105.98KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.76s   763.60ms   3.19s    58.81%
+    Req/Sec        nan       nan   0.00      0.00%
+  3588 requests in 5.04s, 0.99MB read
+  Done array processing 0.000262
+Requests/sec:    711.98
+Transfer/sec:    201.98KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.34s   672.75ms   2.63s    52.56%
+    Req/Sec        nan       nan   0.00      0.00%
+  4383 requests in 5.01s, 1.21MB read
+  Done array processing 0.000185
+Requests/sec:    874.90
+Transfer/sec:    248.22KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.06s   405.58ms   1.85s    64.66%
+    Req/Sec        nan       nan   0.00      0.00%
+  5256 requests in 5.02s, 1.46MB read
+  Done array processing 0.000157
+Requests/sec:   1046.47
+Transfer/sec:    296.97KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.25s     1.05s    4.10s    58.29%
+    Req/Sec        nan       nan   0.00      0.00%
+  1870 requests in 5.07s, 530.51KB read
+  Done array processing 0.000162
+Requests/sec:    368.67
+Transfer/sec:    104.59KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.79s   759.45ms   3.19s    59.67%
+    Req/Sec        nan       nan   0.00      0.00%
+  3563 requests in 5.03s, 0.99MB read
+  Done array processing 0.000317
+Requests/sec:    707.89
+Transfer/sec:    200.84KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.23s   445.39ms   2.05s    56.37%
+    Req/Sec        nan       nan   0.00      0.00%
+  5833 requests in 5.02s, 1.62MB read
+  Done array processing 0.000177
+Requests/sec:   1163.04
+Transfer/sec:    329.98KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.01s   478.42ms   1.87s    50.78%
+    Req/Sec        nan       nan   0.00      0.00%
+  5519 requests in 5.05s, 1.53MB read
+  Done array processing 0.000155
+Requests/sec:   1093.94
+Transfer/sec:    310.43KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.87s   798.49ms   3.26s    57.68%
+    Req/Sec        nan       nan   0.00      0.00%
+  1480 requests in 5.00s, 419.80KB read
+  Done array processing 0.000182
+Requests/sec:    295.93
+Transfer/sec:     83.94KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.60s   602.26ms   2.67s    60.85%
+    Req/Sec        nan       nan   0.00      0.00%
+  2800 requests in 5.00s, 794.36KB read
+  Done array processing 0.000205
+Requests/sec:    559.99
+Transfer/sec:    158.87KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.14s   263.82ms   1.69s    67.15%
+    Req/Sec        nan       nan   0.00      0.00%
+  4858 requests in 5.01s, 1.35MB read
+  Done array processing 0.000225
+Requests/sec:    970.62
+Transfer/sec:    275.38KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.27s   340.34ms   1.98s    65.53%
+    Req/Sec        nan       nan   0.00      0.00%
+  4021 requests in 5.01s, 1.11MB read
+  Done array processing 0.000233
+Requests/sec:    803.25
+Transfer/sec:    227.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.91s   807.74ms   3.28s    57.34%
+    Req/Sec        nan       nan   0.00      0.00%
+  1440 requests in 5.01s, 408.48KB read
+  Done array processing 0.000208
+Requests/sec:    287.62
+Transfer/sec:     81.59KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.10s   791.77ms   3.45s    63.18%
+    Req/Sec        nan       nan   0.00      0.00%
+  3012 requests in 5.00s, 854.42KB read
+  Done array processing 0.000203
+Requests/sec:    602.44
+Transfer/sec:    170.90KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.41s   385.38ms   2.04s    69.36%
+    Req/Sec        nan       nan   0.00      0.00%
+  4119 requests in 5.00s, 1.14MB read
+  Done array processing 0.000203
+Requests/sec:    823.70
+Transfer/sec:    233.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.74s   276.29ms   2.27s    72.36%
+    Req/Sec        nan       nan   0.00      0.00%
+  3785 requests in 5.01s, 1.05MB read
+  Done array processing 0.000217
+Requests/sec:    756.07
+Transfer/sec:    214.52KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.36s     1.05s    4.12s    61.09%
+    Req/Sec        nan       nan   0.00      0.00%
+  1754 requests in 5.01s, 497.58KB read
+  Done array processing 0.000204
+Requests/sec:    350.13
+Transfer/sec:     99.33KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.78s   744.11ms   3.31s    63.99%
+    Req/Sec        nan       nan   0.00      0.00%
+  3175 requests in 5.01s, 0.88MB read
+  Done array processing 0.000127
+Requests/sec:    633.21
+Transfer/sec:    179.64KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.68s   362.55ms   2.20s    83.44%
+    Req/Sec        nan       nan   0.00      0.00%
+  3835 requests in 5.00s, 1.06MB read
+  Done array processing 0.000318
+Requests/sec:    766.52
+Transfer/sec:    217.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.79s   361.16ms   2.57s    69.76%
+    Req/Sec        nan       nan   0.00      0.00%
+  3459 requests in 5.00s, 0.96MB read
+  Done array processing 0.000184
+Requests/sec:    691.82
+Transfer/sec:    196.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.21s     1.04s    4.09s    58.27%
+    Req/Sec        nan       nan   0.00      0.00%
+  1785 requests in 5.02s, 506.35KB read
+  Done array processing 0.000195
+Requests/sec:    355.74
+Transfer/sec:    100.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.85s   808.61ms   3.34s    58.67%
+    Req/Sec        nan       nan   0.00      0.00%
+  3271 requests in 5.01s, 0.91MB read
+  Done array processing 0.000212
+Requests/sec:    652.90
+Transfer/sec:    185.22KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.04s   424.80ms   2.09s    62.89%
+    Req/Sec        nan       nan   0.00      0.00%
+  5192 requests in 5.02s, 1.44MB read
+  Done array processing 0.000281
+Requests/sec:   1034.86
+Transfer/sec:    293.60KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.91s   457.79ms   2.79s    59.87%
+    Req/Sec        nan       nan   0.00      0.00%
+  2774 requests in 5.01s, 787.06KB read
+  Done array processing 0.000217
+Requests/sec:    553.14
+Transfer/sec:    156.94KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.26s     1.04s    4.06s    58.11%
+    Req/Sec        nan       nan   0.00      0.00%
+  1874 requests in 5.03s, 531.57KB read
+  Done array processing 0.000173
+Requests/sec:    372.57
+Transfer/sec:    105.68KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.78s   786.64ms   3.26s    59.55%
+    Req/Sec        nan       nan   0.00      0.00%
+  3524 requests in 5.03s, 0.98MB read
+  Done array processing 0.000170
+Requests/sec:    700.38
+Transfer/sec:    198.70KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.10s   386.28ms   1.91s    56.07%
+    Req/Sec        nan       nan   0.00      0.00%
+  5279 requests in 5.02s, 1.46MB read
+  Done array processing 0.000272
+Requests/sec:   1051.41
+Transfer/sec:    298.30KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.98s   320.37ms   2.56s    79.74%
+    Req/Sec        nan       nan   0.00      0.00%
+  3383 requests in 5.04s, 0.94MB read
+  Done array processing 0.000162
+Requests/sec:    670.76
+Transfer/sec:    190.32KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.18s     1.02s    4.01s    58.88%
+    Req/Sec        nan       nan   0.00      0.00%
+  1874 requests in 5.01s, 531.59KB read
+  Done array processing 0.000156
+Requests/sec:    373.78
+Transfer/sec:    106.03KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.73s   748.96ms   3.19s    59.61%
+    Req/Sec        nan       nan   0.00      0.00%
+  3545 requests in 5.03s, 0.98MB read
+  Done array processing 0.000163
+Requests/sec:    704.40
+Transfer/sec:    199.84KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.17s   516.90ms   2.30s    59.00%
+    Req/Sec        nan       nan   0.00      0.00%
+  5048 requests in 5.05s, 1.40MB read
+  Done array processing 0.000165
+Requests/sec:    998.95
+Transfer/sec:    283.40KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.27s   657.54ms   2.36s    57.37%
+    Req/Sec        nan       nan   0.00      0.00%
+  4571 requests in 5.02s, 1.27MB read
+  Done array processing 0.000153
+Requests/sec:    910.53
+Transfer/sec:    258.34KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.25s     1.03s    4.09s    58.43%
+    Req/Sec        nan       nan   0.00      0.00%
+  1829 requests in 5.04s, 518.81KB read
+  Done array processing 0.000161
+Requests/sec:    362.93
+Transfer/sec:    102.95KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.79s   796.46ms   3.30s    59.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  3357 requests in 5.05s, 0.93MB read
+  Done array processing 0.000265
+Requests/sec:    664.59
+Transfer/sec:    188.53KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.55s   636.24ms   2.73s    55.32%
+    Req/Sec        nan       nan   0.00      0.00%
+  4353 requests in 5.02s, 1.21MB read
+  Done array processing 0.000190
+Requests/sec:    867.46
+Transfer/sec:    246.09KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.33s   528.45ms   2.34s    59.25%
+    Req/Sec        nan       nan   0.00      0.00%
+  4491 requests in 5.09s, 1.24MB read
+  Done array processing 0.000155
+Requests/sec:    882.79
+Transfer/sec:    250.46KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.38s   991.90ms   4.14s    62.23%
+    Req/Sec        nan       nan   0.00      0.00%
+  1633 requests in 5.01s, 463.18KB read
+  Done array processing 0.000226
+Requests/sec:    326.15
+Transfer/sec:     92.51KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.01s   570.25ms   3.07s    67.93%
+    Req/Sec        nan       nan   0.00      0.00%
+  2030 requests in 5.00s, 575.87KB read
+  Done array processing 0.000210
+Requests/sec:    405.91
+Transfer/sec:    115.15KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.67s   476.36ms   2.65s    70.65%
+    Req/Sec        nan       nan   0.00      0.00%
+  2830 requests in 5.00s, 802.86KB read
+  Done array processing 0.000204
+Requests/sec:    565.55
+Transfer/sec:    160.45KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.86s   710.98ms   2.96s    57.35%
+    Req/Sec        nan       nan   0.00      0.00%
+  1966 requests in 5.00s, 557.68KB read
+  Done array processing 0.000240
+Requests/sec:    392.83
+Transfer/sec:    111.43KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.87s   812.37ms   3.29s    57.45%
+    Req/Sec        nan       nan   0.00      0.00%
+  1398 requests in 5.00s, 396.47KB read
+  Done array processing 0.000222
+Requests/sec:    279.46
+Transfer/sec:     79.26KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.84s   783.74ms   3.23s    58.33%
+    Req/Sec        nan       nan   0.00      0.00%
+  3495 requests in 5.01s, 0.97MB read
+  Done array processing 0.000217
+Requests/sec:    697.84
+Transfer/sec:    197.97KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.22s   386.66ms   1.89s    54.85%
+    Req/Sec        nan       nan   0.00      0.00%
+  4489 requests in 5.00s, 1.24MB read
+  Done array processing 0.000196
+Requests/sec:    897.28
+Transfer/sec:    254.59KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.80s   303.12ms   2.38s    75.96%
+    Req/Sec        nan       nan   0.00      0.00%
+  3640 requests in 5.00s, 1.01MB read
+  Done array processing 0.000130
+Requests/sec:    727.65
+Transfer/sec:    206.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.17s     1.01s    4.08s    59.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  1743 requests in 5.00s, 494.34KB read
+  Done array processing 0.000203
+Requests/sec:    348.33
+Transfer/sec:     98.79KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.74s   793.85ms   3.38s    58.39%
+    Req/Sec        nan       nan   0.00      0.00%
+  2856 requests in 5.01s, 810.10KB read
+  Done array processing 0.000210
+Requests/sec:    570.28
+Transfer/sec:    161.76KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.28s   449.70ms   2.08s    50.70%
+    Req/Sec        nan       nan   0.00      0.00%
+  4012 requests in 5.00s, 1.11MB read
+  Done array processing 0.000341
+Requests/sec:    802.12
+Transfer/sec:    227.56KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.14s   435.50ms   2.84s    83.40%
+    Req/Sec        nan       nan   0.00      0.00%
+  2812 requests in 5.00s, 797.82KB read
+  Done array processing 0.000195
+Requests/sec:    562.14
+Transfer/sec:    159.49KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.30s     1.06s    4.12s    58.07%
+    Req/Sec        nan       nan   0.00      0.00%
+  1773 requests in 5.04s, 502.85KB read
+  Done array processing 0.000167
+Requests/sec:    351.91
+Transfer/sec:     99.81KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.98s   812.60ms   3.41s    59.54%
+    Req/Sec        nan       nan   0.00      0.00%
+  3298 requests in 5.02s, 0.91MB read
+  Done array processing 0.000171
+Requests/sec:    657.32
+Transfer/sec:    186.46KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.43s   560.31ms   2.59s    58.16%
+    Req/Sec        nan       nan   0.00      0.00%
+  3601 requests in 5.02s, 1.00MB read
+  Done array processing 0.000345
+Requests/sec:    717.26
+Transfer/sec:    203.47KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.48s   678.75ms   2.65s    63.61%
+    Req/Sec        nan       nan   0.00      0.00%
+  3449 requests in 5.03s, 0.96MB read
+  Done array processing 0.000211
+Requests/sec:    685.49
+Transfer/sec:    194.46KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.30s     1.03s    4.12s    60.22%
+    Req/Sec        nan       nan   0.00      0.00%
+  1720 requests in 5.03s, 487.82KB read
+  Done array processing 0.000199
+Requests/sec:    341.62
+Transfer/sec:     96.89KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.08s   955.21ms   3.73s    54.88%
+    Req/Sec        nan       nan   0.00      0.00%
+  2510 requests in 5.02s, 711.89KB read
+  Done array processing 0.000114
+Requests/sec:    499.86
+Transfer/sec:    141.77KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.22s   427.45ms   2.14s    57.13%
+    Req/Sec        nan       nan   0.00      0.00%
+  4937 requests in 5.01s, 1.37MB read
+  Done array processing 0.000333
+Requests/sec:    985.28
+Transfer/sec:    279.54KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.51s   469.68ms   2.36s    64.48%
+    Req/Sec        nan       nan   0.00      0.00%
+  3996 requests in 5.04s, 1.11MB read
+  Done array processing 0.000176
+Requests/sec:    792.76
+Transfer/sec:    224.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.19s     1.01s    4.07s    59.37%
+    Req/Sec        nan       nan   0.00      0.00%
+  1792 requests in 5.06s, 508.30KB read
+  Done array processing 0.000161
+Requests/sec:    354.05
+Transfer/sec:    100.43KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.91s   747.69ms   3.32s    62.17%
+    Req/Sec        nan       nan   0.00      0.00%
+  3306 requests in 5.02s, 0.92MB read
+  Done array processing 0.000163
+Requests/sec:    659.03
+Transfer/sec:    186.96KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.40s   445.55ms   2.28s    67.25%
+    Req/Sec        nan       nan   0.00      0.00%
+  5368 requests in 5.01s, 1.49MB read
+  Done array processing 0.000185
+Requests/sec:   1071.57
+Transfer/sec:    304.05KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.31s   445.33ms   2.34s    67.77%
+    Req/Sec        nan       nan   0.00      0.00%
+  4412 requests in 5.04s, 1.22MB read
+  Done array processing 0.000173
+Requests/sec:    875.31
+Transfer/sec:    248.35KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.22s     1.03s    4.09s    59.56%
+    Req/Sec        nan       nan   0.00      0.00%
+  1748 requests in 5.05s, 495.77KB read
+  Done array processing 0.000145
+Requests/sec:    346.47
+Transfer/sec:     98.27KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.06s   824.56ms   3.47s    59.40%
+    Req/Sec        nan       nan   0.00      0.00%
+  3068 requests in 5.06s, 870.28KB read
+  Done array processing 0.000226
+Requests/sec:    606.35
+Transfer/sec:    172.00KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.65s   650.19ms   2.82s    59.11%
+    Req/Sec        nan       nan   0.00      0.00%
+  4246 requests in 5.02s, 1.18MB read
+  Done array processing 0.000162
+Requests/sec:    845.93
+Transfer/sec:    239.98KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.41s   507.96ms   2.27s    60.21%
+    Req/Sec        nan       nan   0.00      0.00%
+  4638 requests in 5.06s, 1.29MB read
+  Done array processing 0.000166
+Requests/sec:    916.22
+Transfer/sec:    259.95KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.20s     1.02s    4.02s    57.83%
+    Req/Sec        nan       nan   0.00      0.00%
+  1881 requests in 5.00s, 533.60KB read
+  Done array processing 0.000205
+Requests/sec:    376.07
+Transfer/sec:    106.68KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.73s   615.02ms   2.76s    62.92%
+    Req/Sec        nan       nan   0.00      0.00%
+  2552 requests in 5.00s, 724.02KB read
+  Done array processing 0.000201
+Requests/sec:    510.17
+Transfer/sec:    144.74KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.61s   391.99ms   2.19s    73.32%
+    Req/Sec        nan       nan   0.00      0.00%
+  3769 requests in 5.00s, 1.04MB read
+  Done array processing 0.000233
+Requests/sec:    753.30
+Transfer/sec:    213.74KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.38s   345.87ms   2.23s    64.92%
+    Req/Sec        nan       nan   0.00      0.00%
+  3541 requests in 5.01s, 0.98MB read
+  Done array processing 0.000215
+Requests/sec:    706.87
+Transfer/sec:    200.57KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.01s   799.59ms   3.33s    62.07%
+    Req/Sec        nan       nan   0.00      0.00%
+  1363 requests in 5.00s, 386.66KB read
+  Done array processing 0.000200
+Requests/sec:    272.36
+Transfer/sec:     77.26KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.86s   673.29ms   2.86s    65.90%
+    Req/Sec        nan       nan   0.00      0.00%
+  2359 requests in 5.01s, 669.20KB read
+  Done array processing 0.000213
+Requests/sec:    470.76
+Transfer/sec:    133.54KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.46s   368.49ms   2.11s    74.67%
+    Req/Sec        nan       nan   0.00      0.00%
+  3985 requests in 5.00s, 1.10MB read
+  Done array processing 0.000337
+Requests/sec:    796.37
+Transfer/sec:    225.98KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.67s   440.37ms   2.65s    58.73%
+    Req/Sec        nan       nan   0.00      0.00%
+  3395 requests in 5.01s, 0.94MB read
+  Done array processing 0.000212
+Requests/sec:    677.68
+Transfer/sec:    192.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.03s   958.50ms   4.01s    60.17%
+    Req/Sec        nan       nan   0.00      0.00%
+  1617 requests in 5.01s, 458.70KB read
+  Done array processing 0.000197
+Requests/sec:    322.64
+Transfer/sec:     91.53KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.66s   710.36ms   3.13s    59.65%
+    Req/Sec        nan       nan   0.00      0.00%
+  3328 requests in 5.00s, 0.92MB read
+  Done array processing 0.000183
+Requests/sec:    665.68
+Transfer/sec:    188.87KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.15s   385.19ms   1.84s    55.66%
+    Req/Sec        nan       nan   0.00      0.00%
+  5219 requests in 5.00s, 1.45MB read
+  Done array processing 0.000295
+Requests/sec:   1043.30
+Transfer/sec:    296.02KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.01s   472.54ms   2.87s    69.41%
+    Req/Sec        nan       nan   0.00      0.00%
+  2824 requests in 5.00s, 801.25KB read
+  Done array processing 0.000139
+Requests/sec:    564.92
+Transfer/sec:    160.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.55s     1.01s    4.21s    59.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  1590 requests in 5.03s, 451.01KB read
+  Done array processing 0.000193
+Requests/sec:    316.39
+Transfer/sec:     89.75KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.87s   793.60ms   3.32s    60.57%
+    Req/Sec        nan       nan   0.00      0.00%
+  3368 requests in 5.02s, 0.93MB read
+  Done array processing 0.000213
+Requests/sec:    671.50
+Transfer/sec:    190.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.32s   426.75ms   2.14s    64.78%
+    Req/Sec        nan       nan   0.00      0.00%
+  5534 requests in 5.02s, 1.53MB read
+  Done array processing 0.000218
+Requests/sec:   1101.94
+Transfer/sec:    312.67KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.82s   570.31ms   2.96s    56.27%
+    Req/Sec        nan       nan   0.00      0.00%
+  2626 requests in 5.02s, 745.01KB read
+  Done array processing 0.000228
+Requests/sec:    523.00
+Transfer/sec:    148.38KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.23s     1.04s    4.10s    59.42%
+    Req/Sec        nan       nan   0.00      0.00%
+  1798 requests in 5.03s, 510.00KB read
+  Done array processing 0.000198
+Requests/sec:    357.28
+Transfer/sec:    101.34KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.21s   845.86ms   3.61s    61.91%
+    Req/Sec        nan       nan   0.00      0.00%
+  2835 requests in 5.02s, 804.19KB read
+  Done array processing 0.000256
+Requests/sec:    564.22
+Transfer/sec:    160.05KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.83s   694.61ms   3.08s    65.02%
+    Req/Sec        nan       nan   0.00      0.00%
+  3693 requests in 5.05s, 1.02MB read
+  Done array processing 0.000181
+Requests/sec:    731.57
+Transfer/sec:    207.54KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.04s     1.07s    3.43s    65.04%
+    Req/Sec        nan       nan   0.00      0.00%
+  1506 requests in 5.23s, 427.14KB read
+  Done array processing 0.000152
+Requests/sec:    287.97
+Transfer/sec:     81.68KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.28s     1.05s    4.12s    59.27%
+    Req/Sec        nan       nan   0.00      0.00%
+  1822 requests in 5.04s, 516.83KB read
+  Done array processing 0.000165
+Requests/sec:    361.16
+Transfer/sec:    102.45KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.96s   787.13ms   3.45s    61.12%
+    Req/Sec        nan       nan   0.00      0.00%
+  3058 requests in 5.03s, 867.48KB read
+  Done array processing 0.000136
+Requests/sec:    607.87
+Transfer/sec:    172.44KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.17s   413.88ms   2.16s    62.70%
+    Req/Sec        nan       nan   0.00      0.00%
+  4833 requests in 5.02s, 1.34MB read
+  Done array processing 0.000163
+Requests/sec:    962.90
+Transfer/sec:    273.22KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.34s   515.47ms   2.29s    63.97%
+    Req/Sec        nan       nan   0.00      0.00%
+  4522 requests in 5.03s, 1.25MB read
+  Done array processing 0.000173
+Requests/sec:    899.47
+Transfer/sec:    255.20KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.22s     1.04s    4.11s    59.14%
+    Req/Sec        nan       nan   0.00      0.00%
+  1738 requests in 5.02s, 492.93KB read
+  Done array processing 0.000155
+Requests/sec:    346.00
+Transfer/sec:     98.13KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.95s   812.31ms   3.53s    64.32%
+    Req/Sec        nan       nan   0.00      0.00%
+  2930 requests in 5.11s, 831.25KB read
+  Done array processing 0.000284
+Requests/sec:    573.52
+Transfer/sec:    162.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.97s   783.96ms   3.08s    59.28%
+    Req/Sec        nan       nan   0.00      0.00%
+  3819 requests in 5.03s, 1.06MB read
+  Done array processing 0.000161
+Requests/sec:    759.63
+Transfer/sec:    215.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.26s   431.61ms   2.14s    63.41%
+    Req/Sec        nan       nan   0.00      0.00%
+  5099 requests in 5.06s, 1.41MB read
+  Done array processing 0.000164
+Requests/sec:   1007.47
+Transfer/sec:    285.86KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.91s   816.32ms   3.29s    57.72%
+    Req/Sec        nan       nan   0.00      0.00%
+  1440 requests in 5.03s, 408.39KB read
+  Done array processing 0.000217
+Requests/sec:    286.53
+Transfer/sec:     81.26KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.57s   617.43ms   2.73s    59.78%
+    Req/Sec        nan       nan   0.00      0.00%
+  2639 requests in 5.00s, 748.62KB read
+  Done array processing 0.000209
+Requests/sec:    527.72
+Transfer/sec:    149.70KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.31s   395.51ms   2.18s    61.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  4145 requests in 5.00s, 1.15MB read
+  Done array processing 0.000222
+Requests/sec:    828.71
+Transfer/sec:    235.13KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.05s   345.54ms   1.80s    56.65%
+    Req/Sec        nan       nan   0.00      0.00%
+  4202 requests in 5.04s, 1.16MB read
+  Done array processing 0.000216
+Requests/sec:    833.83
+Transfer/sec:    236.59KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.04s   954.65ms   4.00s    60.21%
+    Req/Sec        nan       nan   0.00      0.00%
+  1741 requests in 5.01s, 493.84KB read
+  Done array processing 0.000211
+Requests/sec:    347.78
+Transfer/sec:     98.65KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.64s   709.10ms   3.12s    60.06%
+    Req/Sec        nan       nan   0.00      0.00%
+  3310 requests in 5.00s, 0.92MB read
+  Done array processing 0.000205
+Requests/sec:    661.62
+Transfer/sec:    187.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.04s   301.77ms   1.76s    57.40%
+    Req/Sec        nan       nan   0.00      0.00%
+  4975 requests in 5.00s, 1.38MB read
+  Done array processing 0.000341
+Requests/sec:    995.05
+Transfer/sec:    282.35KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.48s   358.63ms   2.44s    54.44%
+    Req/Sec        nan       nan   0.00      0.00%
+  3982 requests in 5.00s, 1.10MB read
+  Done array processing 0.000117
+Requests/sec:    795.62
+Transfer/sec:    225.74KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.16s     1.02s    4.10s    60.00%
+    Req/Sec        nan       nan   0.00      0.00%
+  1757 requests in 5.04s, 498.33KB read
+  Done array processing 0.000204
+Requests/sec:    348.90
+Transfer/sec:     98.96KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.65s   736.39ms   3.30s    59.04%
+    Req/Sec        nan       nan   0.00      0.00%
+  2736 requests in 5.00s, 776.08KB read
+  Done array processing 0.000184
+Requests/sec:    546.73
+Transfer/sec:    155.08KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.28s   310.64ms   1.79s    70.08%
+    Req/Sec        nan       nan   0.00      0.00%
+  4681 requests in 5.01s, 1.30MB read
+  Done array processing 0.000147
+Requests/sec:    935.12
+Transfer/sec:    265.32KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.47s   286.97ms   2.09s    59.60%
+    Req/Sec        nan       nan   0.00      0.00%
+  4259 requests in 5.00s, 1.18MB read
+  Done array processing 0.000183
+Requests/sec:    851.05
+Transfer/sec:    241.48KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.29s     1.05s    4.09s    58.88%
+    Req/Sec        nan       nan   0.00      0.00%
+  1851 requests in 5.05s, 525.05KB read
+  Done array processing 0.000194
+Requests/sec:    366.75
+Transfer/sec:    104.03KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.84s   762.36ms   3.41s    63.89%
+    Req/Sec        nan       nan   0.00      0.00%
+  3224 requests in 5.02s, 0.89MB read
+  Done array processing 0.000299
+Requests/sec:    642.30
+Transfer/sec:    182.23KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.23s   419.74ms   2.17s    65.93%
+    Req/Sec        nan       nan   0.00      0.00%
+  5236 requests in 5.01s, 1.45MB read
+  Done array processing 0.000185
+Requests/sec:   1046.02
+Transfer/sec:    296.79KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.61s   359.20ms   2.39s    61.95%
+    Req/Sec        nan       nan   0.00      0.00%
+  3533 requests in 5.00s, 0.98MB read
+  Done array processing 0.000516
+Requests/sec:    706.40
+Transfer/sec:    200.42KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.34s     1.04s    4.15s    60.72%
+    Req/Sec        nan       nan   0.00      0.00%
+  1693 requests in 5.02s, 480.18KB read
+  Done array processing 0.000181
+Requests/sec:    337.15
+Transfer/sec:     95.63KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.95s   806.87ms   3.37s    64.08%
+    Req/Sec        nan       nan   0.00      0.00%
+  3174 requests in 5.02s, 0.88MB read
+  Done array processing 0.000261
+Requests/sec:    631.88
+Transfer/sec:    179.25KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.20s   413.09ms   2.09s    62.00%
+    Req/Sec        nan       nan   0.00      0.00%
+  5614 requests in 5.01s, 1.56MB read
+  Done array processing 0.000176
+Requests/sec:   1119.71
+Transfer/sec:    317.73KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.66s   320.07ms   2.22s    66.98%
+    Req/Sec        nan       nan   0.00      0.00%
+  4041 requests in 5.00s, 1.12MB read
+  Done array processing 0.000133
+Requests/sec:    807.54
+Transfer/sec:    229.16KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.30s     1.03s    4.10s    62.62%
+    Req/Sec        nan       nan   0.00      0.00%
+  1803 requests in 5.08s, 511.43KB read
+  Done array processing 0.000165
+Requests/sec:    355.07
+Transfer/sec:    100.72KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.93s   779.91ms   3.31s    64.04%
+    Req/Sec        nan       nan   0.00      0.00%
+  3365 requests in 5.03s, 0.93MB read
+  Done array processing 0.000252
+Requests/sec:    668.82
+Transfer/sec:    189.75KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.36s   434.10ms   2.22s    65.09%
+    Req/Sec        nan       nan   0.00      0.00%
+  5455 requests in 5.02s, 1.51MB read
+  Done array processing 0.000167
+Requests/sec:   1087.11
+Transfer/sec:    308.45KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.09s   569.50ms   2.28s    53.54%
+    Req/Sec        nan       nan   0.00      0.00%
+  4538 requests in 5.03s, 1.26MB read
+  Done array processing 0.000164
+Requests/sec:    901.49
+Transfer/sec:    255.77KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.31s     1.04s    4.12s    57.17%
+    Req/Sec        nan       nan   0.00      0.00%
+  1799 requests in 5.02s, 510.28KB read
+  Done array processing 0.000170
+Requests/sec:    358.20
+Transfer/sec:    101.60KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.90s   831.25ms   3.38s    56.55%
+    Req/Sec        nan       nan   0.00      0.00%
+  3342 requests in 5.03s, 0.93MB read
+  Done array processing 0.000184
+Requests/sec:    664.91
+Transfer/sec:    188.62KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.38s   511.51ms   2.42s    58.79%
+    Req/Sec        nan       nan   0.00      0.00%
+  5003 requests in 5.00s, 1.39MB read
+  Done array processing 0.000174
+Requests/sec:    999.62
+Transfer/sec:    283.59KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.43s   753.49ms   2.71s    54.49%
+    Req/Sec        nan       nan   0.00      0.00%
+  3542 requests in 5.14s, 0.98MB read
+  Done array processing 0.000610
+Requests/sec:    689.33
+Transfer/sec:    195.55KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.88s   816.25ms   3.28s    57.82%
+    Req/Sec        nan       nan   0.00      0.00%
+  1416 requests in 5.00s, 401.61KB read
+  Done array processing 0.000206
+Requests/sec:    283.19
+Transfer/sec:     80.32KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.71s   740.48ms   3.04s    59.79%
+    Req/Sec        nan       nan   0.00      0.00%
+  2014 requests in 5.00s, 571.30KB read
+  Done array processing 0.000229
+Requests/sec:    402.50
+Transfer/sec:    114.18KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.62s   622.60ms   2.68s    56.25%
+    Req/Sec        nan       nan   0.00      0.00%
+  2810 requests in 5.00s, 797.19KB read
+  Done array processing 0.000307
+Requests/sec:    561.79
+Transfer/sec:    159.38KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.40s   507.71ms   2.40s    59.62%
+    Req/Sec        nan       nan   0.00      0.00%
+  3033 requests in 5.01s, 860.41KB read
+  Done array processing 0.000193
+Requests/sec:    605.48
+Transfer/sec:    171.76KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.19s     1.14s    4.18s    55.91%
+    Req/Sec        nan       nan   0.00      0.00%
+  1595 requests in 5.00s, 452.34KB read
+  Done array processing 0.000219
+Requests/sec:    318.75
+Transfer/sec:     90.40KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.06s   856.08ms   3.29s    51.45%
+    Req/Sec        nan       nan   0.00      0.00%
+  1488 requests in 5.01s, 422.03KB read
+  Done array processing 0.000211
+Requests/sec:    296.92
+Transfer/sec:     84.21KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.66s   579.30ms   2.68s    63.45%
+    Req/Sec        nan       nan   0.00      0.00%
+  2764 requests in 5.00s, 784.07KB read
+  Done array processing 0.000215
+Requests/sec:    552.57
+Transfer/sec:    156.75KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.27s   618.53ms   3.27s    57.11%
+    Req/Sec        nan       nan   0.00      0.00%
+  1863 requests in 5.01s, 528.45KB read
+  Done array processing 0.000130
+Requests/sec:    371.94
+Transfer/sec:    105.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.16s     1.02s    4.06s    58.97%
+    Req/Sec        nan       nan   0.00      0.00%
+  1746 requests in 5.04s, 495.21KB read
+  Done array processing 0.000203
+Requests/sec:    346.70
+Transfer/sec:     98.33KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.87s   770.19ms   3.33s    60.49%
+    Req/Sec        nan       nan   0.00      0.00%
+  3200 requests in 5.03s, 0.89MB read
+  Done array processing 0.000359
+Requests/sec:    636.19
+Transfer/sec:    180.46KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.61s   471.23ms   2.43s    61.98%
+    Req/Sec        nan       nan   0.00      0.00%
+  3303 requests in 5.00s, 0.92MB read
+  Done array processing 0.000220
+Requests/sec:    660.10
+Transfer/sec:    187.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.72s   439.70ms   2.78s    57.75%
+    Req/Sec        nan       nan   0.00      0.00%
+  3053 requests in 5.00s, 866.14KB read
+  Done array processing 0.000174
+Requests/sec:    610.37
+Transfer/sec:    173.16KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.30s     1.03s    4.15s    59.95%
+    Req/Sec        nan       nan   0.00      0.00%
+  1680 requests in 5.03s, 476.51KB read
+  Done array processing 0.000159
+Requests/sec:    334.00
+Transfer/sec:     94.74KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.88s   803.39ms   3.46s    62.68%
+    Req/Sec        nan       nan   0.00      0.00%
+  2900 requests in 5.03s, 822.63KB read
+  Done array processing 0.000220
+Requests/sec:    576.38
+Transfer/sec:    163.50KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.48s   584.69ms   2.65s    59.07%
+    Req/Sec        nan       nan   0.00      0.00%
+  3437 requests in 5.03s, 0.95MB read
+  Done array processing 0.000225
+Requests/sec:    683.89
+Transfer/sec:    194.01KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.77s   503.36ms   2.90s    64.04%
+    Req/Sec        nan       nan   0.00      0.00%
+  2535 requests in 5.01s, 719.20KB read
+  Done array processing 0.000187
+Requests/sec:    506.32
+Transfer/sec:    143.65KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.50s     1.02s    4.20s    61.33%
+    Req/Sec        nan       nan   0.00      0.00%
+  1602 requests in 5.03s, 454.39KB read
+  Done array processing 0.000182
+Requests/sec:    318.32
+Transfer/sec:     90.29KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.98s   815.05ms   3.48s    64.53%
+    Req/Sec        nan       nan   0.00      0.00%
+  3055 requests in 5.02s, 866.69KB read
+  Done array processing 0.000179
+Requests/sec:    608.55
+Transfer/sec:    172.64KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.36s   475.91ms   2.28s    60.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  5314 requests in 5.02s, 1.47MB read
+  Done array processing 0.000175
+Requests/sec:   1059.35
+Transfer/sec:    300.57KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.52s   544.33ms   2.39s    66.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  3804 requests in 5.01s, 1.05MB read
+  Done array processing 0.000173
+Requests/sec:    758.82
+Transfer/sec:    215.28KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.43s     1.04s    4.14s    63.35%
+    Req/Sec        nan       nan   0.00      0.00%
+  1768 requests in 5.06s, 501.50KB read
+  Done array processing 0.000173
+Requests/sec:    349.20
+Transfer/sec:     99.05KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.95s   783.87ms   3.34s    64.93%
+    Req/Sec        nan       nan   0.00      0.00%
+  3344 requests in 5.02s, 0.93MB read
+  Done array processing 0.000190
+Requests/sec:    666.31
+Transfer/sec:    189.04KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.42s   508.58ms   2.41s    55.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  5066 requests in 5.01s, 1.40MB read
+  Done array processing 0.000157
+Requests/sec:   1011.91
+Transfer/sec:    287.12KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.28s   520.99ms   2.17s    66.18%
+    Req/Sec        nan       nan   0.00      0.00%
+  4635 requests in 5.06s, 1.28MB read
+  Done array processing 0.000152
+Requests/sec:    915.21
+Transfer/sec:    259.68KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.36s     1.05s    4.11s    61.97%
+    Req/Sec        nan       nan   0.00      0.00%
+  1798 requests in 5.06s, 510.07KB read
+  Done array processing 0.000154
+Requests/sec:    355.40
+Transfer/sec:    100.82KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.03s   797.63ms   3.48s    64.28%
+    Req/Sec        nan       nan   0.00      0.00%
+  3031 requests in 5.03s, 859.84KB read
+  Done array processing 0.000271
+Requests/sec:    602.25
+Transfer/sec:    170.85KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.00s   343.93ms   1.80s    59.75%
+    Req/Sec        nan       nan   0.00      0.00%
+  6090 requests in 5.05s, 1.69MB read
+  Done array processing 0.000174
+Requests/sec:   1207.08
+Transfer/sec:    342.49KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.26s   669.82ms   2.40s    57.70%
+    Req/Sec        nan       nan   0.00      0.00%
+  4424 requests in 5.02s, 1.23MB read
+  Done array processing 0.000161
+Requests/sec:    881.54
+Transfer/sec:    250.11KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.39s     1.00s    4.13s    60.75%
+    Req/Sec        nan       nan   0.00      0.00%
+  1653 requests in 5.00s, 468.92KB read
+  Done array processing 0.000229
+Requests/sec:    330.35
+Transfer/sec:     93.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.17s   689.90ms   3.14s    68.23%
+    Req/Sec        nan       nan   0.00      0.00%
+  1818 requests in 5.00s, 515.72KB read
+  Done array processing 0.000214
+Requests/sec:    363.32
+Transfer/sec:    103.06KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.85s   497.15ms   2.58s    71.01%
+    Req/Sec        nan       nan   0.00      0.00%
+  3076 requests in 5.00s, 0.85MB read
+  Done array processing 0.000327
+Requests/sec:    614.88
+Transfer/sec:    174.45KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  1 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.66s   571.20ms   2.73s    60.85%
+    Req/Sec        nan       nan   0.00      0.00%
+  2571 requests in 5.05s, 729.39KB read
+  Done array processing 0.000210
+Requests/sec:    509.39
+Transfer/sec:    144.51KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.12s   831.59ms   3.37s    65.20%
+    Req/Sec        nan       nan   0.00      0.00%
+  1250 requests in 5.00s, 354.54KB read
+  Done array processing 0.000202
+Requests/sec:    250.02
+Transfer/sec:     70.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.54s   618.88ms   2.68s    57.80%
+    Req/Sec        nan       nan   0.00      0.00%
+  2702 requests in 5.00s, 766.56KB read
+  Done array processing 0.000139
+Requests/sec:    540.40
+Transfer/sec:    153.31KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.34s   374.59ms   2.18s    65.94%
+    Req/Sec        nan       nan   0.00      0.00%
+  3797 requests in 5.00s, 1.05MB read
+  Done array processing 0.000171
+Requests/sec:    758.83
+Transfer/sec:    215.31KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  2 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.94s   522.51ms   3.00s    62.57%
+    Req/Sec        nan       nan   0.00      0.00%
+  2509 requests in 5.02s, 711.84KB read
+  Done array processing 0.000187
+Requests/sec:    500.20
+Transfer/sec:    141.92KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.02s   983.94ms   4.08s    64.93%
+    Req/Sec        nan       nan   0.00      0.00%
+  1555 requests in 5.00s, 441.13KB read
+  Done array processing 0.000174
+Requests/sec:    311.06
+Transfer/sec:     88.24KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.85s   791.48ms   3.20s    57.66%
+    Req/Sec        nan       nan   0.00      0.00%
+  3597 requests in 5.00s, 1.00MB read
+  Done array processing 0.000185
+Requests/sec:    718.73
+Transfer/sec:    203.91KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.22s   356.05ms   1.98s    64.58%
+    Req/Sec        nan       nan   0.00      0.00%
+  4262 requests in 5.01s, 1.18MB read
+  Done array processing 0.000211
+Requests/sec:    851.32
+Transfer/sec:    241.55KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  4 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.96s   362.38ms   2.49s    81.34%
+    Req/Sec        nan       nan   0.00      0.00%
+  3435 requests in 5.01s, 0.95MB read
+  Done array processing 0.000221
+Requests/sec:    686.11
+Transfer/sec:    194.71KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.20s     1.03s    4.08s    58.57%
+    Req/Sec        nan       nan   0.00      0.00%
+  1809 requests in 5.03s, 513.19KB read
+  Done array processing 0.000202
+Requests/sec:    359.42
+Transfer/sec:    101.96KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.70s   738.48ms   3.14s    60.05%
+    Req/Sec        nan       nan   0.00      0.00%
+  3448 requests in 5.01s, 0.96MB read
+  Done array processing 0.000315
+Requests/sec:    687.68
+Transfer/sec:    195.12KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.15s   402.20ms   1.97s    55.97%
+    Req/Sec        nan       nan   0.00      0.00%
+  5235 requests in 5.00s, 1.45MB read
+  Done array processing 0.000220
+Requests/sec:   1045.97
+Transfer/sec:    296.78KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  6 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.59s   416.27ms   2.50s    64.49%
+    Req/Sec        nan       nan   0.00      0.00%
+  3391 requests in 5.01s, 0.94MB read
+  Done array processing 0.000224
+Requests/sec:    676.89
+Transfer/sec:    192.05KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.21s     1.03s    4.06s    58.60%
+    Req/Sec        nan       nan   0.00      0.00%
+  1829 requests in 5.01s, 518.93KB read
+  Done array processing 0.000185
+Requests/sec:    365.34
+Transfer/sec:    103.66KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.82s   793.47ms   3.27s    58.74%
+    Req/Sec        nan       nan   0.00      0.00%
+  3444 requests in 5.02s, 0.95MB read
+  Done array processing 0.000201
+Requests/sec:    686.15
+Transfer/sec:    194.68KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.52s   680.45ms   2.64s    50.87%
+    Req/Sec        nan       nan   0.00      0.00%
+  4146 requests in 5.01s, 1.15MB read
+  Done array processing 0.000178
+Requests/sec:    828.04
+Transfer/sec:    234.94KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  8 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.05s   391.18ms   1.78s    62.70%
+    Req/Sec        nan       nan   0.00      0.00%
+  5491 requests in 5.08s, 1.52MB read
+  Done array processing 0.000161
+Requests/sec:   1081.96
+Transfer/sec:    307.07KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.25s     1.03s    4.00s    57.89%
+    Req/Sec        nan       nan   0.00      0.00%
+  1957 requests in 5.04s, 555.26KB read
+  Done array processing 0.000157
+Requests/sec:    388.64
+Transfer/sec:    110.27KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.81s   757.93ms   3.18s    60.26%
+    Req/Sec        nan       nan   0.00      0.00%
+  3627 requests in 5.03s, 1.00MB read
+  Done array processing 0.000271
+Requests/sec:    721.32
+Transfer/sec:    204.65KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.14s   395.21ms   2.10s    60.68%
+    Req/Sec        nan       nan   0.00      0.00%
+  5289 requests in 5.01s, 1.47MB read
+  Done array processing 0.000167
+Requests/sec:   1054.96
+Transfer/sec:    299.35KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  10 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.45s   463.45ms   2.23s    75.45%
+    Req/Sec        nan       nan   0.00      0.00%
+  4109 requests in 5.01s, 1.14MB read
+  Done array processing 0.000151
+Requests/sec:    819.70
+Transfer/sec:    232.59KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 50 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     2.31s     1.05s    4.12s    58.33%
+    Req/Sec        nan       nan   0.00      0.00%
+  1814 requests in 5.05s, 514.60KB read
+  Done array processing 0.000180
+Requests/sec:    358.92
+Transfer/sec:    101.82KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 100 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.87s   793.88ms   3.33s    61.62%
+    Req/Sec        nan       nan   0.00      0.00%
+  3314 requests in 5.03s, 0.92MB read
+  Done array processing 0.000149
+Requests/sec:    658.50
+Transfer/sec:    186.82KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 200 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.21s   433.02ms   2.19s    64.42%
+    Req/Sec        nan       nan   0.00      0.00%
+  5372 requests in 5.04s, 1.49MB read
+  Done array processing 0.000172
+Requests/sec:   1066.76
+Transfer/sec:    302.69KB
+Running 5s test @ https://nodejs-cispa.herokuapp.com/
+  12 threads and 400 connections
+  Thread Stats   Avg      Stdev     Max   +/- Stdev
+    Latency     1.22s   359.50ms   2.03s    64.32%
+    Req/Sec        nan       nan   0.00      0.00%
+  5121 requests in 5.05s, 1.42MB read
+  Done array processing 0.000213
+Requests/sec:   1014.91
+Transfer/sec:    288.02KB
